@@ -1,3 +1,8 @@
+""" Ethan Burress
+    BurressEthan_M02_CaseStudy.py
+    Application will test a students GPA to see if they fall within Dean's list or Honor Roll or neither."""
+
+
 def main():
     print("Student GPA Qualifier App\n") 
     # Display an introduction message for app functionality
